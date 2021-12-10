@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started
 
 Welcome to your new project.
@@ -26,4 +25,4 @@ File or Folder | Purpose
 Learn more at https://cap.cloud.sap/docs/get-started/.
 =======
 # dat160
->>>>>>> b1957a073fe7ee10059181f72c3ee8548ea929a0
+
